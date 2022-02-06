@@ -24,5 +24,5 @@
 
 <!---
 Example: 
-Fix|Update for DashBoss/repository_name/PR-Number/name_of_fix
+Fix|Update for MechBird/repository_name/PR-Number/name_of_fix
 --->
